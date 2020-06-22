@@ -1,5 +1,6 @@
 void setup()
 {
+  // teste do git
     pinMode(9,OUTPUT); // LED VERDE pedrestes
     pinMode(10,OUTPUT); // LED VERMELHO pedestres
     pinMode(11,OUTPUT); // LED VERDE carros
