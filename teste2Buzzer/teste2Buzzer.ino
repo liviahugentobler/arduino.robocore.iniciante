@@ -28,3 +28,4 @@ void loop()
   noTone(pinoBuzzer); // para frequencia no buzzer
   delay(1000);
 }
+//teste
